@@ -72,7 +72,7 @@ const INFO = {
 				"A simple todo app built with NextJS and Material-UI. Firebase is used for the database.",
 			logo: "https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp",
 			linkText: "View Project",
-			link: "https://github.com/next-firebase-todo",
+			link: "https://github.com/aaqilruzzan/next-firebase-todo",
 		},
 		{
 			title: "Toursim Website (Associated with the University of Westminster)",
