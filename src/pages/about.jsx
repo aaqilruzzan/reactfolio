@@ -32,12 +32,6 @@ const About = () => {
 			<div className="page-content">
 				<NavBar active="about" />
 				<div className="content-wrapper">
-					<div className="about-logo-container">
-						<div className="about-logo">
-							<Logo width={46} />
-						</div>
-					</div>
-
 					<div className="about-container">
 						<div className="about-main">
 							<div className="about-right-side">
@@ -48,14 +42,32 @@ const About = () => {
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
 								</div>
+
+								<h2 class="mb-2 mt-4 text-lg font-semibold  dark:text-gray-500">
+									Skills:
+								</h2>
+								<ul class="max-w-md space-y-1 text-gray-500 list-disc list-inside dark:text-gray-500">
+									<li>HTML</li>
+									<li>CSS</li>
+									<li>JavaScript</li>
+									<li>TypeScript</li>
+									<li>React</li>
+									<li>Node.js</li>
+									<li>Express</li>
+									<li>MongoDB</li>
+									<li>SQL</li>
+									<li>OOP</li>
+									<li>RESTful APIs</li>
+									<li>Git Version Control</li>
+								</ul>
 							</div>
 
 							<div className="about-left-side">
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="about.jpg"
-											alt="about"
+											src="../challenges.jpg"
+											alt="challenges"
 											className="about-image"
 										/>
 									</div>

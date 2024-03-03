@@ -33,12 +33,6 @@ const Articles = () => {
 			<div className="page-content">
 				<NavBar active="articles" />
 				<div className="content-wrapper">
-					<div className="articles-logo-container">
-						<div className="articles-logo">
-							<Logo width={46} />
-						</div>
-					</div>
-
 					<div className="articles-main-container">
 						<div className="title articles-title">
 							{INFO.articles.title}
@@ -60,7 +54,13 @@ const Articles = () => {
 											date={article().date}
 											title={article().title}
 											description={article().description}
-											link={"/article/" + (index + 1)}
+											link={
+												index == 0
+													? "https://medium.com/@aaqil.ruzzan/how-to-implement-jwt-authentication-with-the-mern-stack-4948d4423c64"
+													: index == 1
+													? "https://medium.com/@aaqil.ruzzan/cyber-security-for-websites-688fd23d314b"
+													: "https://medium.com/@aaqil.ruzzan/what-is-jwt-and-what-does-it-do-10d99e283c29"
+											}
 										/>
 									</div>
 								))}
