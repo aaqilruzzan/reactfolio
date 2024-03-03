@@ -45,7 +45,7 @@ const INFO = {
 				"RemEz is a descriptive question based learning platform built for students in highly theoretical subjects. Domain based research gaps are filled with this platform with the help of Natural Language Processing. The Frontend and Backend of this platform is built with the MERN stack and tailwind.",
 			logo: "../RemEz.jpg",
 			linkText: "View Project",
-			link: "https://github.com/aaqilruzzan/EMS",
+			link: "https://docs.google.com/document/d/1U3XbhWvWCvBO-mjmXRSJ5YuchGD2VCsAXsW4OFg0xr0/edit?usp=sharing",
 		},
 
 		{
@@ -72,7 +72,7 @@ const INFO = {
 				"A simple todo app built with NextJS and Material-UI. Firebase is used for the database.",
 			logo: "https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/next-firebase-todo",
 		},
 		{
 			title: "Toursim Website (Associated with the University of Westminster)",
