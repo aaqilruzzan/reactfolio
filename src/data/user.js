@@ -45,7 +45,7 @@ const INFO = {
 				"RemEz is a descriptive question based learning platform built for students in highly theoretical subjects. Domain based research gaps are filled with this platform with the help of Natural Language Processing. The Frontend and Backend of this platform is built with the MERN stack and tailwind. A Flask API is used to connect the data science component.",
 			logo: "../RemEz.jpg",
 			linkText: "View Project",
-			link: "https://github.com/aaqilruzzan/RemEz",
+			link: "https://docs.google.com/document/d/1U3XbhWvWCvBO-mjmXRSJ5YuchGD2VCsAXsW4OFg0xr0",
 		},
 
 		{
