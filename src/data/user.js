@@ -8,19 +8,19 @@ const INFO = {
 
 	socials: {
 		github: "https://github.com/aaqilruzzan",
-		linkedin: "https://www.linkedin.com/in/ahamed-aaqil-48064b234/",
+		linkedin: "https://www.linkedin.com/in/aaqil-ruzzan-48064b234/",
 	},
 
 	homepage: {
 		title: "Full-stack web developer, and SE Undergraduate.",
 		description:
-			" As a developer specializing in Web Development, I possess a robust foundation in the MERN stack, enabling me to build scalable, secure, and reliable web applications that adhere to best practices and industry standards. My experience spans a variety of frameworks and technologies, reflecting my commitment to solving complex challenges and continuously expanding my skill set. My passion for crafting high-quality code is matched by my eagerness to learn and adapt in the fast-evolving tech landscape. Currently embracing the role of a part-time Software Engineering intern, I am keenly searching for opportunities that will allow me to further hone my expertise and contribute to innovative projects. I thrive on pushing the boundaries of what's possible and am always on the lookout for new challenges that will facilitate my growth as a developer.",
+			"As a developer with 1.5 years of experience building enterprise-level software systems within the JavaScript ecosystem, I specialize in crafting high-quality, scalable code. Currently finishing my degree, I am actively expanding my skill set into .NET and am eagerly seeking a new professional role to contribute to innovative projects.",
 	},
 
 	about: {
 		title: "I’m a Passionate Developer Seeking Growth Through Innovative Challenges.",
 		description:
-			"Driven by a passion for technology and innovation, I am a highly motivated and detail-oriented developer with a strong foundation in Web Development. My personal experience in building projects includes work on a range of technologies such as the MERN stack, PERN stack, Next js. My experience at Win Authority LLC includes me being a part of building scalable, secure, and reliable web applications that adhere to best practices and industry standards. I am currently embracing the role of a part-time Software Engineering intern, and I am keenly searching for opportunities that will allow me to further hone my expertise and contribute to innovative projects. I thrive on pushing the boundaries of what's possible and am always on the lookout for new challenges that will facilitate my growth as a developer!",
+			"Driven by a passion for building high-impact technology, I am a detail-oriented developer who has been actively growing my professional expertise since September 2022. During my journey, I have contributed to scalable web applications at Win Authority LLC using Next.js and React.js, and helped develop enterprise-level InsureTech and ERP systems with Angular and Nest.js at Echonlabs Pvt Ltd. Currently, while completing my degree, I am focusing on broadening my backend capabilities by self-studying .NET Core. I thrive on pushing the boundaries of modern web architecture and am actively seeking new opportunities where I can contribute to innovative projects and continue my growth as a developer.",
 	},
 
 	articles: {

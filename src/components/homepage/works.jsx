@@ -16,7 +16,7 @@ const Works = () => {
 						<div className="work">
 							<img
 								src="../Win-Authority-Logo.png"
-								alt="facebook"
+								alt="company logo"
 								className="work-image"
 							/>
 							<div className="work-title">Win Authority</div>
@@ -24,7 +24,21 @@ const Works = () => {
 								Software Engineering Intern <br /> (Part-Time)
 							</div>
 							<div className="work-duration">
-								2023 November - Present
+								2023 Nov - 2024 April
+							</div>
+						</div>
+						<div className="work">
+							<img
+								src="../echonlabs logo.png"
+								alt="company logo"
+								className="work-image"
+							/>
+							<div className="work-title">Echonlabs</div>
+							<div className="work-subtitle">
+								Trainee Software Engineer <br /> (Full-Time)
+							</div>
+							<div className="work-duration">
+								2024 April - 2025 April
 							</div>
 						</div>
 					</div>

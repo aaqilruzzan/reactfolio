@@ -47,16 +47,15 @@ const About = () => {
 									Skills:
 								</h2>
 								<ul class="max-w-md space-y-1 text-gray-500 list-disc list-inside dark:text-gray-500">
-									<li>HTML</li>
-									<li>CSS</li>
-									<li>JavaScript</li>
+									<li>.NET Core</li>
+									<li>React.js</li>
+									<li>Next.js</li>
+									<li>Angular.js</li>
 									<li>TypeScript</li>
-									<li>React</li>
 									<li>Node.js</li>
 									<li>Express</li>
 									<li>MongoDB</li>
 									<li>SQL</li>
-									<li>OOP</li>
 									<li>RESTful APIs</li>
 									<li>Git Version Control</li>
 								</ul>

@@ -41,15 +41,21 @@ const Projects = () => {
 						<div className="subtitle projects-subtitle">
 							I've worked on a variety of projects since i started
 							as a graduate in 2022 September. I'm proud of the
-							progress I've made. I've worked on Full Stack Web
-							Development projects using Next.js and React.js in
-							Win Authority LLC. The below projects are my
-							personal ones. If you're interested in any of the
-							projects I've worked on, please feel free to check
-							out the code and suggest any improvements or
-							enhancements you might have in mind. Collaborating
-							with others is a great way to learn and grow, and
-							I'm always open to new ideas and feedback.
+							progress I've made. I have experience developing
+							full-stack web applications using Next.js and
+							React.js at Win Authority LLC, as well as
+							contributing to enterprise-level InsureTech products
+							and ERP systems with Angular and Nest.js at
+							Echonlabs Pvt Ltd. To further expand my technical
+							toolkit, I am currently self-studying .NET Core to
+							build proficiency in enterprise backend development.
+							The below projects are my personal ones. If you're
+							interested in any of the projects I've worked on,
+							please feel free to check out the code and suggest
+							any improvements or enhancements you might have in
+							mind. Collaborating with others is a great way to
+							learn and grow, and I'm always open to new ideas and
+							feedback.
 						</div>
 
 						<div className="projects-list">
