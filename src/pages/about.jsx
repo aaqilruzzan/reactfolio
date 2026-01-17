@@ -10,7 +10,7 @@ import INFO from "../data/user";
 import SEO from "../data/seo";
 
 import "./styles/about.css";
-
+//deploy trigger
 const About = () => {
 	useEffect(() => {
 		window.scrollTo(0, 0);
