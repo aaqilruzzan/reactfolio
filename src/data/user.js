@@ -12,7 +12,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web developer, and SE Undergraduate.",
+		title: "Aaqil Ruzzan. Full-stack web developer, and SE Undergraduate.",
 		description:
 			"As a developer with 1.5 years of experience building enterprise-level software systems within the JavaScript ecosystem, I specialize in crafting high-quality, scalable code. Currently finishing my degree, I am actively expanding my skill set into .NET and am eagerly seeking a new professional role to contribute to innovative projects.",
 	},
