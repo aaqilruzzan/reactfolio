@@ -12,7 +12,7 @@ export const Reviews = () => {
 					</div>
 					<h5 class="mb-4 text-xl font-semibold">Minhaz Mohamed</h5>
 					<h6 class="mb-4 font-semibold text-primary dark:text-primary-500">
-						Software Engineer | Entrepreneur
+						Software Engineer @ EyePax
 					</h6>
 					<p class="mb-4">
 						<svg
@@ -46,7 +46,7 @@ export const Reviews = () => {
 					</div>
 					<h5 class="mb-4 text-xl font-semibold">Amjad Nazar</h5>
 					<h6 class="mb-4 font-semibold text-primary dark:text-primary-500">
-						Software Engineer at Corzent
+						SSE @ Liquid Labs | Freelance Consultant
 					</h6>
 					<p class="mb-4">
 						<svg
