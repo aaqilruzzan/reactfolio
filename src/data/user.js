@@ -66,7 +66,7 @@ const INFO = {
 			title: "Study AI",
 			description:
 				"Study AI is an AI-powered platform built with React and FastAPI that transforms images of notes into structured learning resources. Using GPT-4o-mini, it generates summaries, interactive quizzes, and mind maps while ensuring privacy through ephemeral, session-based storage",
-			logo: "../StudyHelper.png",
+			logo: "../Studyhelper.png",
 			linkText: "View Project",
 			link: "https://github.com/hashir-00/session-scholar",
 		},
@@ -74,7 +74,7 @@ const INFO = {
 			title: "Concurrent Programming Showcase",
 			description:
 				"Advanced Java concurrent programming showcase featuring Virtual Threads, Producer-Consumer patterns, and high-performance multi-threaded systems. Demonstrates enterprise-level concurrency with 100,000+ concurrent operations, BlockingQueues, atomic operations, and modern thread management techniques.",
-			logo: "../Concurrent Programming.png",
+			logo: "../Concurrent programming.png",
 			linkText: "View Project",
 			link: "https://github.com/aaqilruzzan/Concurrent-Programming",
 		},
