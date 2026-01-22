@@ -2,16 +2,44 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			" As a developer specializing in Web Development, I possess a robust foundation in the MERN stack, enabling me to build scalable, secure, and reliable web applications that adhere to best practices and industry standards. My experience spans a variety of frameworks and technologies, reflecting my commitment to solving complex challenges and continuously expanding my skill set. My passion for crafting high-quality code is matched by my eagerness to learn and adapt in the fast-evolving tech landscape. Currently embracing the role of a part-time Software Engineering intern, I am keenly searching for opportunities that will allow me to further hone my expertise and contribute to innovative projects. I thrive on pushing the boundaries of what's possible and am always on the lookout for new challenges that will facilitate my growth as a developer.",
+			"Experienced Software Developer specializing in full-stack web development with expertise in Angular.js, React.js, Next.js, Nest.js, and MongoDB. Professional experience at Echonlabs Pvt. Ltd. developing large-scale ERP systems and enterprise-level InsureTech products, and at Win Authority LLC creating legal domain applications and robust CMS solutions. Skilled in modular architecture, CI/CD pipelines, and delivering scalable enterprise-grade software solutions.",
 
-		keywords: ["Aaqil", "Aaqil R", "Aaqil Ruzzan"],
+		keywords: [
+			"Aaqil",
+			"Aaqil R",
+			"Aaqil Ruzzan",
+			"Full Stack Developer",
+			"React.js",
+			"Angular.js",
+			"Next.js",
+			"Nest.js",
+			"MongoDB",
+			"ERP Systems",
+			"InsureTech",
+			"Software Engineer",
+		],
 	},
 
 	{
 		page: "about",
 		description:
-			"Driven by a passion for technology and innovation, I am a highly motivated and detail-oriented developer with a strong foundation in Web Development. My personal experience in building projects includes work on a range of technologies such as the MERN stack, PERN stack, Next js. My experience at Win Authority LLC includes me being a part of building scalable, secure, and reliable web applications that adhere to best practices and industry standards. I am currently embracing the role of a part-time Software Engineering intern, and I am keenly searching for opportunities that will allow me to further hone my expertise and contribute to innovative projects. I thrive on pushing the boundaries of what's possible and am always on the lookout for new challenges that will facilitate my growth as a developer!",
-		keywords: ["Aaqil", "Aaqil R", "Aaqil Ruzzan"],
+			"Professional Software Developer with hands-on experience in enterprise software development. At Echonlabs Pvt. Ltd., actively engineered large-scale ERP systems and InsureTech products using Angular.js, Nest.js, and MongoDB, while spearheading modular developments and architectural improvements. At Win Authority LLC, specialized in legal domain applications and CMS development using React.js, Next.js, and MongoDB. Expert in GitLab CI/CD, agile methodologies, and clean code principles.",
+		keywords: [
+			"Aaqil",
+			"Aaqil R",
+			"Aaqil Ruzzan",
+			"Software Developer",
+			"ERP Systems",
+			"InsureTech",
+			"Legal Tech",
+			"CMS Development",
+			"Angular.js",
+			"React.js",
+			"Next.js",
+			"Nest.js",
+			"MongoDB",
+			"CI/CD",
+		],
 	},
 
 	{
@@ -31,8 +59,18 @@ const SEO = [
 	{
 		page: "contact",
 		description:
-			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
-		keywords: ["Aaqil", "Aaqil R", "Aaqil Ruzzan"],
+			"Connect with an experienced software developer specializing in enterprise applications, ERP systems, and modern web development. Open to collaboration on innovative projects involving React.js, Angular.js, Next.js, Nest.js, and MongoDB technologies.",
+		keywords: [
+			"Aaqil",
+			"Aaqil R",
+			"Aaqil Ruzzan",
+			"Contact",
+			"Software Developer",
+			"Collaboration",
+			"React.js",
+			"Angular.js",
+			"Enterprise Development",
+		],
 	},
 ];
 

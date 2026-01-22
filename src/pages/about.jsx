@@ -40,7 +40,29 @@ const About = () => {
 								</div>
 
 								<div className="subtitle about-subtitle">
-									{INFO.about.description}
+									In Echonlabs Pvt. Ltd., <br />
+									• Actively engineered and developed large-scale ERP systems and enterprise-level InsureTech products using Angular.js, Nest.js, and MongoDB.
+									<br /><br />
+									• Spearheaded modular developments and executed critical architectural changes to enhance system scalability and maintainability.
+									<br /><br />
+									• Integrated complex new features and addressed technical bugs based on direct client requirements to ensure high-performance product delivery.
+									<br /><br />
+									• Utilized GitLab CI/CD pipelines to automate testing and deployment processes, ensuring stable and reliable release cycles.
+									<br /><br />
+									• Collaborated within an agile environment to deliver secure, enterprise-grade software solutions adhering to industry best practices.
+									<br /><br />
+									In Win Authority LLC., <br />
+									• Engineered a specialized web application within the legal domain and a robust Content Management System (CMS).
+									<br /><br />
+									• Developed dynamic, responsive front-end interfaces using React.js and Next.js, prioritizing seamless user experiences and high-performance rendering.
+									<br /><br />
+									• Leveraged MongoDB for efficient data modeling and management, ensuring high availability and reliability for diverse web projects.
+									<br /><br />
+									• Contributed to the full feature development lifecycle, spanning from initial conceptualization and coding to rigorous testing and production integration.
+									<br /><br />
+									• Applied clean code principles to build modular, scalable, and maintainable software components.
+									<br /><br />
+									• Maintained active version control and collaborative development through GitHub, documenting project progress and code enhancements.
 								</div>
 
 								<h2 class="mb-2 mt-4 text-lg font-semibold  dark:text-gray-500">
